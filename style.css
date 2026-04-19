@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+.link-nav {
+    border: 2px solid pink;
+    color: pink;
+    padding: 3px;
+    margin: 10px;
+}
+
+
+ul {
+  list-style-image:  url("https://learn.alg.academy/uploads/student/4503624/69db3147f1c64.png");
+  list-style-position: inside;
+  display:block;
+ justify-content: center;
+
+}
+li::before{
+ align-items: center;
+ padding:0;
+ position:absolute;
+ top:200px;
+}
