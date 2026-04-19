@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+div {
+   display: inline-block; 
+}
+h1 {
+    color: palevioletred;
+}
+p {
+    color: pink;
+}
+h2 {
+    color: plum;
+}
+ul {
+    color: rgb(238, 196, 238);
+}
